@@ -1,0 +1,5 @@
+tup=(23,24,34,89,45,34,34,56,78,112)
+print(tup)
+print(type(tup))
+print(tup[3])
+print(tup[8])

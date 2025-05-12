@@ -1,0 +1,15 @@
+#Store the above values in alist and sort them from "A" to "D"
+list=[]
+list.append(input("Enter the grade  Roll no. 1. "))
+list.append(input("Enter the grade  Roll no. 2. "))
+list.append(input("Enter the grade  Roll no. 3. "))
+list.append(input("Enter the grade  Roll no. 4. "))
+list.append(input("Enter the grade  Roll no. 5. "))
+list.append(input("Enter the grade  Roll no. 6. "))
+list.append(input("Enter the grade  Roll no. 7. "))
+list.append(input("Enter the grade  Roll no. 8. "))
+list.append(input("Enter the grade  Roll no. 9. "))
+list.append(input("Enter the grade  Roll no. 10. "))
+print(list)
+list.sort()
+print(list)

@@ -1,0 +1,12 @@
+#Write a program to input 2 number and print their sum
+a=input("Enter your name: ")
+b=int(input("Enter your age: "))
+c=float(input("enter the number:"))
+d=float(input("enter the number:"))
+print(c+d)
+print(c-d)
+print(c*d)
+print(c-d)
+print(c/d)
+print(c**d)
+print(c%d)
